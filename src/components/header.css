@@ -1,0 +1,15 @@
+.a1{
+  height: 50px;
+  background: #56CCF2;
+  background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2);
+  background: linear-gradient(to right, #2F80ED, #56CCF2);
+  color: white;
+}
+ .a2{
+  margin-top: 20px;
+  width:200px;
+  background: #00b09b;
+  background: -webkit-linear-gradient(to right, #96c93d, #00b09b);
+  background: linear-gradient(to right, #96c93d, #00b09b);
+  border-radius: 20px 20px 20px 20px;
+ }
